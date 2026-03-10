@@ -18,7 +18,6 @@
 - [잘한 부분 (설계 중심)](#-잘한-부분-설계-중심)
 - [기술 스택](#-기술-스택)
 - [프로젝트 구조](#-프로젝트-구조)
-- [시작하기](#-시작하기)
 
 ---
 
@@ -517,64 +516,6 @@ persist(
 
 ---
 
-## 🚀 시작하기
-
-### 사전 요구사항
-
-- Node.js 18.17 이상
-- npm 또는 yarn
-
-### 설치
-
-```bash
-# 저장소 클론
-git clone https://github.com/your-username/lion-connect-frontend.git
-cd lion-connect-frontend
-
-# 의존성 설치
-npm install
-
-# 환경 변수 설정
-cp .env.example .env.local
-# .env.local 파일을 열어 필요한 값 설정
-```
-
-### 환경 변수
-
-```env
-# API
-NEXT_PUBLIC_API_BASE_URL=your_api_url
-
-# S3 (파일 업로드)
-NEXT_PUBLIC_S3_BASE_URL=your_s3_url
-```
-
-### 개발 서버 실행
-
-```bash
-# Turbopack 사용 (권장)
-npm run dev
-
-# 브라우저에서 http://localhost:3000 열기
-```
-
-### 빌드
-
-```bash
-# 프로덕션 빌드
-npm run build
-
-# 프로덕션 서버 실행
-npm start
-
-# 타입 체크
-npm run type-check
-
-# 린팅
-npm run lint
-```
-
----
 
 ## 🎓 배운 점
 
