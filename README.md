@@ -1,7 +1,7 @@
 # Lion Connect 🦁
 
 > **멋쟁이사자처럼 수료생과 중소기업을 연결하는 채용 플랫폼 MVP**
-> 1개월 설계 + 1개월 개발 | 프론트엔드 단독 개발(설계 단계 프론트 2인, 개발단계 단독 개발) | 60건 지원, 4건 매칭 달성
+> 1개월(프론트2, 백2, 디자이너1, PM1)  + 1개월(프론트1, 백1, 디자이너1, PM1)
 
 ![Next.js](https://img.shields.io/badge/Next.js-15.5.7-black?logo=next.js)
 ![React](https://img.shields.io/badge/React-19.1.2-61DAFB?logo=react)
