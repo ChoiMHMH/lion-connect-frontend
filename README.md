@@ -169,7 +169,7 @@
 |------|------|------|
 | **렌더링** | CSR 중심 + SEO 필요 시 SSR | 대부분 로그인 필수 페이지, MVP 1개월 시간 제약 |
 | **API 구조** | 3계층 (Constants → Client → Domain) | 137개 API 단독 관리, 엔드포인트 변경 시 수정 1파일 |
-| **인증 저장** | accessToken 메모리 + refreshToken HttpOnly | XSS 방어, MVP여도 보안 타협 안 함 |
+| **인증 저장** | accessToken 메모리 + refreshToken HttpOnly | XSS 방어 |
 | **토큰 갱신** | Promise 캐싱 | 동시 401 발생 시 갱신 1회로 통합 |
 | **폼 제출** | 순차 → 병렬 → 후처리 3단계 | 파일 업로드(순서 의존) + CRUD(독립) + 상태 전환 분리 |
 | **권한 제어** | middleware.ts RBAC | 32개 페이지 권한을 선언적 배열 한 곳에서 관리 |
