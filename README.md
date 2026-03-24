@@ -1,4 +1,4 @@
-# Lion Connect 🦁
+<img width="1364" height="832" alt="기업 문의 리스팅(admin)" src="https://github.com/user-attachments/assets/130cf162-03a2-41a1-83ed-e443d2828068" /># Lion Connect 🦁
 
 > **멋쟁이사자처럼 수료생과 중소기업을 연결하는 채용 플랫폼 MVP**
 > 1개월(프론트2, 백2, 디자이너1, PM1)  + 1개월(프론트1, 백1, 디자이너1, PM1)
@@ -68,10 +68,7 @@ P2: 알림, 채팅, 추천 (검증 후 추가) ← 과감히 제외
 
 </details>
 
-```
-<!-- 스크린샷 추가 예정 -->
-![랜딩 페이지](docs/screenshots/landing.png)
-```
+![랜딩페이지](https://github.com/user-attachments/assets/aedb6b13-c120-4c40-b173-067e67f21710)
 
 ---
 
@@ -85,11 +82,9 @@ P2: 알림, 채팅, 추천 (검증 후 추가) ← 과감히 제외
 3. 기업: 이메일 인증 필수
 4. 자동 로그인 및 역할별 리다이렉트
 
-```
-<!-- 스크린샷 추가 예정 -->
-![회원가입 - 유형 선택](docs/screenshots/signup-type.png)
-![회원가입 - Step 1](docs/screenshots/signup-step1.png)
-```
+![일반 회원가입](https://github.com/user-attachments/assets/ebd0dff5-a3d7-4ea2-a66a-555239ac0960)
+
+![기업회원가입gif](https://github.com/user-attachments/assets/9d27df02-ccee-471b-961e-3ff778d90ae5)
 
 ---
 
@@ -120,11 +115,9 @@ const changedFields = getChangedFields(dirtyFields);
 await updateProfile(changedFields); // 효율적!
 ```
 
-```
-<!-- 스크린샷 추가 예정 -->
-![프로필 편집](docs/screenshots/profile-edit.png)
-![경력 섹션](docs/screenshots/profile-career.png)
-```
+<img width="1466" height="878" alt="dashboard-profile" src="https://github.com/user-attachments/assets/0a9f2340-3aeb-4e93-a167-d8b3bbdabc28" />
+
+![이력서 작성](https://github.com/user-attachments/assets/5a8ff526-3bcb-4caa-ba2c-895be95bc59a)
 
 ---
 
@@ -137,11 +130,15 @@ await updateProfile(changedFields); // 효율적!
 - 공고 게시/비공개 전환
 - 지원자 관리 (`/jobs/[jobId]/applicants`)
 
-```
-<!-- 스크린샷 추가 예정 -->
-![채용 공고 등록](docs/screenshots/job-create.png)
-![지원자 관리](docs/screenshots/job-applicants.png)
-```
+<img width="1513" height="926" alt="채용 공고" src="https://github.com/user-attachments/assets/0867c0c8-218e-485b-96fe-f3ce57943f65" />
+
+
+![기업 채용공고 작성폼 ](https://github.com/user-attachments/assets/6e5d690c-2b1d-4cfd-8e12-768a761714ee)
+
+
+
+
+
 
 ---
 
@@ -154,11 +151,8 @@ await updateProfile(changedFields); // 효율적!
 - 뱃지 시스템 (부트캠프, 창업, 자격증, 전공자)
 - 인재 상세 프로필 보기
 
-```
-<!-- 스크린샷 추가 예정 -->
-![인재 검색](docs/screenshots/talents-search.png)
-![인재 상세](docs/screenshots/talent-detail.png)
-```
+<img width="1273" height="963" alt="image" src="https://github.com/user-attachments/assets/9b0d6ebd-9f8c-48da-9de3-1dfcca374e88" />
+
 
 ---
 
@@ -167,16 +161,17 @@ await updateProfile(changedFields); // 효율적!
 시스템 관리자 페이지
 
 **기능**:
+- 기업 문의 관리
 - 사용자 관리 (잠금/해제)
 - 기업 관리
-- 채용 공고 관리
-- 문의사항 처리
+- 채용 공고 관리 및 지원 현황 트래킹
+<img width="1364" height="832" alt="기업 문의 리스팅(admin)" src="https://github.com/user-attachments/assets/c26bbb7a-8c63-4487-abd0-159eff3d0e14" />
+<img width="1613" height="1030" alt="사용자 계정 관리" src="https://github.com/user-attachments/assets/cedd5a8f-c16f-4f9e-9e9d-0e17573a9dc2" />
+<img width="1316" height="847" alt="기업 계정 관리" src="https://github.com/user-attachments/assets/dfe277ce-14ed-4851-8fde-307834d7551c" />
 
-```
-<!-- 스크린샷 추가 예정 -->
-![관리자 대시보드](docs/screenshots/admin-dashboard.png)
-![사용자 관리](docs/screenshots/admin-users.png)
-```
+
+<img width="1712" height="1072" alt="지원현황트래킹" src="https://github.com/user-attachments/assets/193e7a09-ca5c-4ab3-9005-4c67a91828d4" />
+<img width="1713" height="1069" alt="지원현황트래킹2" src="https://github.com/user-attachments/assets/37736655-0fae-465b-b5d7-04c51c9c3b76" />
 
 ---
 
