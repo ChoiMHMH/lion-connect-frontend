@@ -96,9 +96,10 @@
     <td><strong>내 지원현황</strong></td>
   </tr>
   <tr>
-    <td><img width="600" alt="지원현황" src="https://github.com/user-attachments/assets/f5acd0e8-5e6f-4063-9ec4-2b2e185834b5" /></td>
+    <td><img width="600" alt="지원현황" src="https://github.com/user-attachments/assets/a52bdb95-2b4c-44f7-92e2-3b79e211df80" /></td>
   </tr>
 </table>
+
 
 
 ### 기업용 페이지
