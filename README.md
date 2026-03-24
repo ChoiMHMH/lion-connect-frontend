@@ -72,33 +72,34 @@
     <td><strong>랜딩 (채용공고 리스팅)</strong></td>
   </tr>
   <tr>
-    <td><img width="600" alt="인재용 랜딩" src="" /></td>
+    <td><img width="600" alt="인재용 랜딩" src="https://github.com/user-attachments/assets/c42ac86d-f010-44ab-8bda-6808e868ecbc" /></td>
   </tr>
   <tr>
     <td><strong>채용공고 상세</strong></td>
   </tr>
   <tr>
-    <td><img width="600" alt="채용공고 상세" src="이미지_URL_여기에" /></td>
+    <td><img width="600" alt="채용공고 상세" src="https://github.com/user-attachments/assets/8016cf06-e8bf-48ee-b326-3d9bcc0bd167" /></td>
   </tr>
   <tr>
-    <td><strong>이력서 리스트</strong></td>
+    <td><strong>내 이력서 리스트</strong></td>
   </tr>
   <tr>
     <td><img width="600" alt="이력서 리스트" src="https://github.com/user-attachments/assets/0a9f2340-3aeb-4e93-a167-d8b3bbdabc28" /></td>
   </tr>
   <tr>
-    <td><strong>이력서 상세</strong></td>
+    <td><strong>이력서 상세(이력서 작성 및 수정)</strong></td>
   </tr>
   <tr>
     <td><img width="600" alt="이력서 상세" src="https://github.com/user-attachments/assets/5a8ff526-3bcb-4caa-ba2c-895be95bc59a" /></td>
   </tr>
   <tr>
-    <td><strong>지원현황</strong></td>
+    <td><strong>내 지원현황</strong></td>
   </tr>
   <tr>
-    <td><img width="600" alt="지원현황" src="이미지_URL_여기에" /></td>
+    <td><img width="600" alt="지원현황" src="https://github.com/user-attachments/assets/f5acd0e8-5e6f-4063-9ec4-2b2e185834b5" /></td>
   </tr>
 </table>
+
 
 ### 기업용 페이지
 
@@ -107,21 +108,23 @@
     <td><strong>랜딩</strong></td>
   </tr>
   <tr>
-    <td><img width="600" alt="기업용 랜딩" src="이미지_URL_여기에" /></td>
+    <td><img width="600" alt="기업용 랜딩" src="https://github.com/user-attachments/assets/aedb6b13-c120-4c40-b173-067e67f21710" /></td>
   </tr>
   <tr>
     <td><strong>채용공고 리스트</strong></td>
   </tr>
   <tr>
-    <td><img width="600" alt="채용공고 리스트" src="이미지_URL_여기에" /></td>
+    <td><img width="600" alt="채용공고 리스트" src="https://github.com/user-attachments/assets/6c8866b6-7bd0-4f60-a24d-0adfb7d8510b" /></td>
   </tr>
   <tr>
     <td><strong>채용공고 입력폼</strong></td>
   </tr>
   <tr>
-    <td><img width="600" alt="채용공고 입력폼" src="이미지_URL_여기에" /></td>
+    <td><img width="600" alt="채용공고 입력폼" src="https://github.com/user-attachments/assets/84747a72-b5f7-4a18-a67a-6c013e750ce9" /></td>
   </tr>
 </table>
+
+
 
 ### 관리자 대시보드
 
