@@ -1,6 +1,6 @@
 # 🦁 Lion Connect
 
-> 멋쟁이사자처럼 수료생과 중소기업을 연결하는 채용 플랫폼 MVP
+> 멋쟁이사자처럼 수료생과 중소기업을 연결하는 채용 플랫폼 MVP (실제 수료생 데이터는 개인정보 보호를 위해 목데이터로 바꾼 스크린샷으로 대체했습니다.)
 
 <img width="100%" alt="Lion Connect" src="https://github.com/user-attachments/assets/2a2648d7-cbc9-4e2b-afc9-9b729aa9c105" />
 
